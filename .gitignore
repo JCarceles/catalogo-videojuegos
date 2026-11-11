@@ -1,0 +1,11 @@
+﻿# Archivos temporales
+*.tmp
+*.log
+
+# Configuracion privada
+.env
+
+# Dependencias y compilacion
+node_modules/
+target/
+dist/
